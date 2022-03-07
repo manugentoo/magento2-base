@@ -1,4 +1,4 @@
-# "Regenerate Url rewrites" Change Log
+# "Manugentoo Magento 2 Base" Change Log
 
 All notable changes to this project will be documented in this file.
 
