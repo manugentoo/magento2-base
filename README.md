@@ -19,7 +19,7 @@ Extension homepage: https://github.com/manugentoo/base
 ### MANUAL INSTALLATION
 * extract files from an archive
 
-* deploy files into Magento2 folder `app/code/Manugentoo/`
+* deploy files into Magento2 folder `app/code/Manugentoo/Base`
 
 ### ENABLE EXTENSION
 * enable extension (use Magento 2 command line interface \*):
