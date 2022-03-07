@@ -1,4 +1,4 @@
-“Manugentoo Base Module” extension
+“Manugentoo Mgaento 2 Base Module” extension
 =====================
 Magento 2 Manugentoo Base Module
 Extension homepage: https://github.com/manugentoo/base
