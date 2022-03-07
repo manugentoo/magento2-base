@@ -9,7 +9,7 @@ Extension homepage: https://github.com/manugentoo/base
 
 ## DONATIONS / SUPPORT ME ON
 * [Patreon](https://www.patreon.com/manugentoo)
-* 
+
 ## INSTALLATION
 
 ### COMPOSER INSTALLATION
