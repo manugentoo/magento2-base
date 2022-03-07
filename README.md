@@ -1,4 +1,4 @@
-“Manugentoo Mgaento 2 Base Module” extension
+“Manugentoo Magento 2 Base Module” 
 =====================
 Magento 2 Manugentoo Base Module
 Extension homepage: https://github.com/manugentoo/base
@@ -36,6 +36,3 @@ Enjoy!
 
 Best regards,
 Manu Gentoo
-
--------------
-\* see: http://devdocs.magento.com/guides/v2.0/config-guide/cli/config-cli-subcommands.html
