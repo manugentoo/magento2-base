@@ -1,4 +1,4 @@
-“Regenerate Url rewrites” extension
+“Manugentoo Base Module” extension
 =====================
 Magento 2 Manugentoo Base Module
 Extension homepage: https://github.com/manugentoo/base
