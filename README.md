@@ -2,7 +2,7 @@
 =====================
 Magento 2 Manugentoo Base Module
 
-Extension homepage: https://github.com/manugentoo/magento2-module-base
+Extension homepage: https://github.com/manugentoo/magento2-base
 
 ## CONTACTS
 * Email: manugentoo@gmail.com
